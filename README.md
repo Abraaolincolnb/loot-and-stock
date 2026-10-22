@@ -90,7 +90,7 @@ A documentação incluirá os requisitos necessários, a configuração do banco
 - Trabalhar com APIs REST e bancos de dados relacionais.
 - Praticar testes automatizados e integridade dos dados.
 - Aprender e aplicar um fluxo de trabalho colaborativo com Git e GitHub.
-- Construir um projeto documentado para compor o portfólio dos desenvolvedores.
+- Construir um projeto documentado para compor o portfólio dos desenvolvedores
 
 ---
 
